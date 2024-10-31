@@ -3,6 +3,7 @@ module github.com/brentgroves/grpc-with-envoy
 go 1.22.0
 
 require (
+	github.com/brentgroves/user-info-proto v0.1.0
 	github.com/golang/protobuf v1.5.4
 	google.golang.org/grpc v1.67.1
 )
